@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+*.swp
+*.swo
+.env
+venv/
+.venv/
+issues/
+demo_creation.md

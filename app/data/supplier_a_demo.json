@@ -1,0 +1,128 @@
+[
+  {
+    "supplier": "AutoParts Direct",
+    "category": "Oil Filter",
+    "code": "APD-1125",
+    "description": "Oil Filter - Compatible with various Oil Filter models",
+    "rrp_inc_gst": "9.36",
+    "cost_ex_gst": "5.17",
+    "product_url": "/products/APD-1125",
+    "image_url": null,
+    "brand": "BrandA",
+    "notes": "",
+    "per_car_qty": "1\n    \n",
+    "availability": {
+      "cost_ex_gst": "5.17",
+      "local": {
+        "available": true,
+        "qty": "10+",
+        "status": "in"
+      }
+    }
+  },
+  {
+    "supplier": "AutoParts Direct",
+    "category": "Oil Filter",
+    "code": "APD-1103",
+    "description": "Oil Filter - Compatible with various Oil Filter models",
+    "rrp_inc_gst": "13.90",
+    "cost_ex_gst": "10.49",
+    "product_url": "/products/APD-1103",
+    "image_url": null,
+    "brand": "BrandA",
+    "notes": "",
+    "per_car_qty": "1\n    \n",
+    "availability": {
+      "cost_ex_gst": "10.49",
+      "local": {
+        "available": true,
+        "qty": "10+",
+        "status": "in"
+      }
+    }
+  },
+  {
+    "supplier": "AutoParts Direct",
+    "category": "Oil Filter",
+    "code": "APD-68",
+    "description": "Oil Filter - Compatible with various Oil Filter models",
+    "rrp_inc_gst": "25.29",
+    "cost_ex_gst": "8.44",
+    "product_url": "/products/APD-68",
+    "image_url": null,
+    "brand": "BrandB",
+    "notes": "",
+    "per_car_qty": "1\n    \n",
+    "availability": {
+      "cost_ex_gst": "8.44",
+      "local": {
+        "available": true,
+        "qty": "10+",
+        "status": "in"
+      }
+    }
+  },
+  {
+    "supplier": "AutoParts Direct",
+    "category": "Oil Filter",
+    "code": "APD-6006",
+    "description": "Oil Filter - Compatible with various Oil Filter models",
+    "rrp_inc_gst": "22.65",
+    "cost_ex_gst": "9.67",
+    "product_url": "/products/APD-6006",
+    "image_url": null,
+    "brand": "BrandB",
+    "notes": "",
+    "per_car_qty": "1\n    \n",
+    "availability": {
+      "cost_ex_gst": "9.67",
+      "local": {
+        "available": false,
+        "qty": "0",
+        "status": "out"
+      }
+    }
+  },
+  {
+    "supplier": "AutoParts Direct",
+    "category": "Air Filter",
+    "code": "APD-3301",
+    "description": "Air Filter - Compatible with various Air Filter models",
+    "rrp_inc_gst": "14.54",
+    "cost_ex_gst": "9.77",
+    "product_url": "/products/APD-3301",
+    "image_url": null,
+    "brand": "BrandA",
+    "notes": "",
+    "per_car_qty": "1\n    \n",
+    "availability": {
+      "cost_ex_gst": "9.77",
+      "local": {
+        "available": true,
+        "qty": "10+",
+        "status": "in"
+      }
+    }
+  },
+  {
+    "supplier": "AutoParts Direct",
+    "category": "Air Filter",
+    "code": "APD-24",
+    "description": "Automotive Part - Compatible with various Air Filter models",
+    "rrp_inc_gst": "46.17",
+    "cost_ex_gst": "14.06",
+    "product_url": "/products/APD-24",
+    "image_url": null,
+    "brand": "BrandB",
+    "notes": "",
+    "per_car_qty": "1\n    \n",
+    "availability": {
+      "cost_ex_gst": "14.06",
+      "local": {
+        "available": true,
+        "qty": "1",
+        "status": "in"
+      }
+    }
+  }
+]

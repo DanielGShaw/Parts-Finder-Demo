@@ -1,0 +1,112 @@
+[
+  {
+    "supplier": "PartsHub Pro",
+    "category": "Air Filter",
+    "code": "PHP-10190",
+    "description": "Air Filter - Compatible with various Air Filter models",
+    "rrp_inc_gst": null,
+    "cost_ex_gst": "9.54",
+    "product_url": "/products/PHP-10190",
+    "image_url": null,
+    "brand": "BrandC",
+    "notes": "",
+    "per_car_qty": "EACH",
+    "availability": {
+      "local": {
+        "available": true,
+        "qty": null
+      },
+      "other": {
+        "available": true
+      }
+    }
+  },
+  {
+    "supplier": "PartsHub Pro",
+    "category": "Oil Filter",
+    "code": "PHP-11252",
+    "description": "Oil Filter - Compatible with various Oil Filter models",
+    "rrp_inc_gst": null,
+    "cost_ex_gst": "5.06",
+    "product_url": "/products/PHP-11252",
+    "image_url": null,
+    "brand": "BrandC",
+    "notes": "",
+    "per_car_qty": "EACH",
+    "availability": {
+      "local": {
+        "available": true,
+        "qty": null
+      },
+      "other": {
+        "available": true
+      }
+    }
+  },
+  {
+    "supplier": "PartsHub Pro",
+    "category": "Cabin Air Filter",
+    "code": "PHP-03",
+    "description": "Cabin Air Filter - Compatible with various Cabin Air Filter models",
+    "rrp_inc_gst": null,
+    "cost_ex_gst": "10.77",
+    "product_url": "/products/PHP-03",
+    "image_url": null,
+    "brand": "BrandD",
+    "notes": "",
+    "per_car_qty": "EACH",
+    "availability": {
+      "local": {
+        "available": true,
+        "qty": null
+      },
+      "other": {
+        "available": true
+      }
+    }
+  },
+  {
+    "supplier": "PartsHub Pro",
+    "category": "Oil Filter",
+    "code": "PHP-4967",
+    "description": "Oil Filter - Compatible with various Oil Filter models",
+    "rrp_inc_gst": null,
+    "cost_ex_gst": "5.08",
+    "product_url": "/products/PHP-4967",
+    "image_url": null,
+    "brand": "BrandC",
+    "notes": "",
+    "per_car_qty": "EACH",
+    "availability": {
+      "local": {
+        "available": true,
+        "qty": null
+      },
+      "other": {
+        "available": true
+      }
+    }
+  },
+  {
+    "supplier": "PartsHub Pro",
+    "category": "Oil Filter",
+    "code": "PHP-68",
+    "description": "Oil Filter - Compatible with various Oil Filter models",
+    "rrp_inc_gst": null,
+    "cost_ex_gst": "7.79",
+    "product_url": "/products/PHP-68",
+    "image_url": null,
+    "brand": "BrandB",
+    "notes": "",
+    "per_car_qty": "EACH",
+    "availability": {
+      "local": {
+        "available": false,
+        "qty": "Call for Availability"
+      },
+      "other": {
+        "available": false
+      }
+    }
+  }
+]
