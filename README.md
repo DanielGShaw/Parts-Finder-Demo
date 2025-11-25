@@ -10,7 +10,9 @@ Parts Finder is a web application that aggregates automotive parts pricing and a
 
 ## 🚀 Live Demo
 
-[Coming Soon - Streamlit Cloud deployment]
+**[Launch Application →](https://parts-finder-demo-htxbunb8l7pbbmzjdqukyw.streamlit.app/)**
+
+Try the live demo deployed on Streamlit Cloud.
 
 ## 📸 Screenshots
 
