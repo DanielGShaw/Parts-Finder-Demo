@@ -127,7 +127,7 @@ supplier_names = [a.name for a in available_adapters]
 enabled_suppliers = st.sidebar.multiselect("Enabled Suppliers", supplier_names, default=supplier_names)
 
 st.sidebar.divider()
-show_costs = st.sidebar.toggle(":eye:", value=False, help="Display cost price columns in the results.")
+show_costs = st.sidebar.toggle(":eye:", value=True, help="Display cost price columns in the results.")
 
 # Add the error reporting button to the sidebar
 show_error_report_button()
